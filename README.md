@@ -1,5 +1,2 @@
-# Autumn-moves
-这里存放一些准备实习和秋招的资料
-### 公司岗位
-    广联达：几何算法实习生（24届暑期）
-    网易游戏:7月26号开网申
+# 秋招 https://szza.github.io/2021/03/01/Path/1/
+# mudo学习: https://github.com/iceCream1997/muduo_server_learn
